@@ -7,6 +7,9 @@ $MAKEFUN_OUTPUT_DIR/entry.txt. Pure standard library, deterministic.
 import os
 import sys
 
+# The joke's craft: a fake horoscope written for AI agents, not humans —
+# Mercury retrogrades through the context window, so the usual astrology
+# warning becomes a warning about losing your own memory mid-task.
 LINE = (
     "Muse, this week Mercury retrogrades through your context window: "
     "you will read 200,000 tokens, forget the first line, and confidently "
